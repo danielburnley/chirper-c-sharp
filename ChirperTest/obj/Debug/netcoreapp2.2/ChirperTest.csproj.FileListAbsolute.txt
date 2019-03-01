@@ -1,0 +1,17 @@
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/ChirperTest.deps.json
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/ChirperTest.runtimeconfig.json
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/ChirperTest.runtimeconfig.dev.json
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/ChirperTest.dll
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/ChirperTest.pdb
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.csprojAssemblyReference.cache
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.csproj.CoreCompileInputs.cache
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.AssemblyInfoInputs.cache
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.AssemblyInfo.cs
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.dll
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.pdb
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/Chirper.dll
+/home/dan/example/ExampleAppOne/ChirperTest/bin/Debug/netcoreapp2.2/Chirper.pdb
+/home/dan/example/ExampleAppOne/ChirperTest/obj/Debug/netcoreapp2.2/ChirperTest.csproj.CopyComplete

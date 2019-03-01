@@ -1,0 +1,17 @@
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/ChirperAcceptance.deps.json
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/ChirperAcceptance.runtimeconfig.json
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/ChirperAcceptance.runtimeconfig.dev.json
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/ChirperAcceptance.dll
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/ChirperAcceptance.pdb
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.csprojAssemblyReference.cache
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.csproj.CoreCompileInputs.cache
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.AssemblyInfoInputs.cache
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.AssemblyInfo.cs
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.dll
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.pdb
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/Chirper.dll
+/home/dan/example/ExampleAppOne/ChirperAcceptance/bin/Debug/netcoreapp2.2/Chirper.pdb
+/home/dan/example/ExampleAppOne/ChirperAcceptance/obj/Debug/netcoreapp2.2/ChirperAcceptance.csproj.CopyComplete

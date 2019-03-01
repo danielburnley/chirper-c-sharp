@@ -1,0 +1,9 @@
+/home/dan/example/ExampleAppOne/Chirper/bin/Debug/netcoreapp2.2/Chirper.deps.json
+/home/dan/example/ExampleAppOne/Chirper/bin/Debug/netcoreapp2.2/Chirper.dll
+/home/dan/example/ExampleAppOne/Chirper/bin/Debug/netcoreapp2.2/Chirper.pdb
+/home/dan/example/ExampleAppOne/Chirper/obj/Debug/netcoreapp2.2/Chirper.csproj.CoreCompileInputs.cache
+/home/dan/example/ExampleAppOne/Chirper/obj/Debug/netcoreapp2.2/Chirper.AssemblyInfoInputs.cache
+/home/dan/example/ExampleAppOne/Chirper/obj/Debug/netcoreapp2.2/Chirper.AssemblyInfo.cs
+/home/dan/example/ExampleAppOne/Chirper/obj/Debug/netcoreapp2.2/Chirper.dll
+/home/dan/example/ExampleAppOne/Chirper/obj/Debug/netcoreapp2.2/Chirper.pdb
+/home/dan/example/ExampleAppOne/Chirper/obj/Debug/netcoreapp2.2/Chirper.csprojAssemblyReference.cache
